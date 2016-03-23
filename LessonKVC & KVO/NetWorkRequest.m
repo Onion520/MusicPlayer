@@ -90,6 +90,12 @@
         [_delegate netWorkRequest:self didFailed:error];
     }
     
+    
+    
+    
+    
+    
+    
     self.receiveData = nil;
 }
 
